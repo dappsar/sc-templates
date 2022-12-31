@@ -8,7 +8,7 @@
 
     - => View in [opensea](https://testnets.opensea.io/assets/goerli/0x54e664957ad5e82c6ead6649bf76bd0b8ff34dc5/2)
 
-    - => <a target='_blank' href='data:application/json;base64,aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj01MkZHcFZNZXVRUQ=='>Reference</a>
+    - => Reference: aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj01MkZHcFZNZXVRUQ==
 
 
 ---
