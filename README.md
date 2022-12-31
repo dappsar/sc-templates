@@ -1,0 +1,2 @@
+# sc-templates
+SC Templates
